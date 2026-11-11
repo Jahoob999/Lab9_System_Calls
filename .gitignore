@@ -1,7 +1,5 @@
 #object files
 *.o
-#Makefile
-Makefile
 #executables
 finfo
 info
